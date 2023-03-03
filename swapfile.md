@@ -20,3 +20,7 @@ Finally, enable the swap.
 ```
 sudo swapon /swapfile
 ```
+Edit the file and add the following./etc/fstab
+```
+/swapfile none swap sw 0 0
+```
