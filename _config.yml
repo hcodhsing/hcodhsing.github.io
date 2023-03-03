@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme
 gem "github-pages", group: :jekyll_plugins
 title: hcodhsing
-description: hcodhsing
+description: 
 show_downloads: false
